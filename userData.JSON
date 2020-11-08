@@ -1,0 +1,45 @@
+{
+    "dataSiswa": {
+        "userID" : 1,
+        "username" : "dikvyt",
+        "userNamaLengkap" : "I Made Adika Bhavanta",
+        "password": "dikasayangkamu666",
+        "dateOfBirth" : "2001-01-24",
+        "email" : "dikvyt@gmail.com",
+        "Kelas" : "X-IPS-1"
+    },
+
+
+    "dataKelas" : [
+        {"namaKelas" : "X-MIPA-1"},
+        {"namaKelas" : "X-MIPA-2"},
+        {"namaKelas" : "X-MIPA-3"},
+        {"namaKelas" : "X-MIPA-4"},
+        {"namaKelas" : "X-IPS-1"},
+        {"namaKelas" : "X-IPS-2"},
+        {"namaKelas" : "X-IPS-3"},
+        {"namaKelas" : "X-IPS-4"}
+    ],
+
+    "dataMapel" : [
+        {"mapelID" : 1,"mapelNama" : "Bahasa Indonesia"},
+        {"mapelID" : 2,"mapelNama" : "Sosiologi"},
+        {"mapelID" : 3,"mapelNama" : "Pendidikan Pancasila"},
+        {"mapelID" : 4,"mapelNama" : "Biologi"},
+        {"mapelID" : 5,"mapelNama" : "Kimia"},
+        {"mapelID" : 6,"mapelNama" : "Fisika"},
+        {"mapelID" : 7,"mapelNama" : "Bahasa Inggris"},
+        {"mapelID" : 8,"mapelNama" : "Sosial"},
+        {"mapelID" : 9,"mapelNama" : "Ekonomi"},
+        {"mapelID" : 10,"mapelNama" : "Kesenian"}
+    ],
+
+    "X-IPS-1" : [
+        {"listMapel" : 
+            {"mapelID" : [1,2,3,4,7,8,9,10]}
+        },
+        {"listSiswa":
+            {"userID" : 1}
+        }
+    ]
+}
