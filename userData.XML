@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSiswa>
+    <userID>1</userID>
+    <username>dikvyt</username>
+    <userNamaLengkap>I Made Adika Bhavanta</userNamaLengkap>
+    <password>dikasayangkamu666</password>
+    <dateOfBirth>2001-01-24</dateOfBirth>
+    <email>dikvyt@gmail.com</email>
+    <Kelas>X-IPS-1</Kelas>
+</dataSiswa>
+
+<dataKelas>
+    <namaKelas>
+    X-MIPA-1
+    </namaKelas>
+    <namaKelas>
+    X-MIPA-2
+    </namaKelas>
+    <namaKelas>
+    X-MIPA-3
+    </namaKelas>
+    <namaKelas>
+    X-MIPA-4
+    </namaKelas>
+    <namaKelas>
+    X-IPS-1
+    </namaKelas>
+    <namaKelas>
+    X-IPS-2
+    </namaKelas>
+    <namaKelas>
+    X-IPS-3
+    </namaKelas>
+    <namaKelas>
+    X-IPS-4
+    </namaKelas>
+</dataKelas>
+
+<dataMapel>
+    <mapel>
+    <mapelID>1</mapelID> <mapelNama>Bahasa Indonesia</mapelNama>
+    </mapel>
+    <mapel>
+    <mapelID>2</mapelID> <mapelNama>Sosiologi</mapelNama>
+    </mapel>
+    <mapel>
+    <mapelID>3</mapelID> <mapelNama>Pendidikan Pancasila</mapelNama>
+    </mapel>
+    <mapel>
+    <mapelID>4</mapelID> <mapelNama>Biologi</mapelNama>
+    </mapel>
+    <mapel>
+    <mapelID>5</mapelID> <mapelNama>Kimia</mapelNama>
+    </mapel>
+    <mapel>
+    <mapelID>6</mapelID> <mapelNama>Fisika</mapelNama>
+    </mapel>
+    <mapel>
+    <mapelID>7</mapelID> <mapelNama>Bahasa Inggris</mapelNama>
+    </mapel>
+    <mapel>
+    <mapelID>8</mapelID> <mapelNama>Sosial</mapelNama>
+    </mapel>
+    <mapel>
+    <mapelID>9</mapelID> <mapelNama>Ekonomi</mapelNama>
+    </mapel>
+    <mapel>
+    <mapelID>10</mapelID> <mapelNama>Kesenian</mapelNama>
+    </mapel>
+</dataMapel>
+
+
+<X-IPS-1>
+    <listMapel>
+        <mapelID>1,2,3,4,7,8,9,10</mapelID>
+    </listMapel>
+    <listSiswa>
+        <userID>1</userID>
+    </listSiswa>
+</X-IPS-1>
